@@ -30,6 +30,14 @@
 ![Use Case 1 уровня](diagrams/use_case_level-1.png)
 ![Описание](diagrams/uc_level_1_description.png)
 
+<p align="center">
+  <img src="diagrams/use_case_level-1.png" alt="Use Case 1 уровня">
+</p>
+
+<p align="center">
+  <img src="diagrams/uc_level_1_description.png" alt="Описание">
+</p>
+
 ## Второй уровень
 ![Use Case 2 уровня](diagrams/use_case_level-2.png)
 ![Описание](diagrams/uc_level_2_description.png)
