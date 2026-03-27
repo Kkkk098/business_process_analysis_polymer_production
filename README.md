@@ -31,11 +31,15 @@
 ![Описание](diagrams/uc_level_1_description.png)
 
 <p align="center">
-  <img src="diagrams/use_case_level-1.png" alt="Use Case 1 уровня">
+  <img src="diagrams/use_case_level-1.png">
+  <br>
+  <sub>Use Case 1 уровня</sub>
 </p>
 
 <p align="center">
-  <img src="diagrams/uc_level_1_description.png" alt="Описание">
+  <img src="diagrams/uc_level_1_description.png">
+  <br>
+  <sub>Описание</sub>
 </p>
 
 ## Второй уровень
