@@ -14,7 +14,9 @@
 ---
 ## ER-диаграмма
 
-![ERD](diagrams/ER-diagram.png)
+<p align="center">
+  <img src="diagrams/ER-diagram.png" alt="ERD">
+</p>
 
 ---
 ## BPMN диаграмма
