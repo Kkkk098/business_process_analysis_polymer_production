@@ -3,15 +3,11 @@
 ## Описание проекта
 Курсовой проект, посвященный анализу и моделированию бизнес-процесса непрерывного производства полимерных труб.
 
----
-
 ## Задачи
 1.	Проанализировать предметную область и структуру производственного процесса, рассмотрев основноой и вспомогательный процесс. 
 2.	Построить ER-диаграмму по фрагменту текстового описания.
 3.	Описать бизнес-процесс (основной и вспомогательный) с использованием BPMN.
 4.	Выделить ключевых участников и их взаимодействие (Use Case) 
-
----
 
 ## ER-диаграмма
 
@@ -19,19 +15,15 @@
   <img src="diagrams/ER-diagram.png" alt="ERD">
 </p>
 
----
-
 ## BPMN диаграмма
 
 ![BPMN](diagrams/BPMN.png)
-
----
 
 ## Use Case диаграмма
 ### Первый уровень
 
 <p align="center">
-  <img src="diagrams/use_case_level-1.png" width=600>
+  <img src="diagrams/use_case_level-1.png" width=400>
   <br>
   <sub>Use Case 1 уровня</sub>
 </p>
@@ -45,7 +37,7 @@
 ## Второй уровень
 
 <p align="center">
-  <img src="diagrams/use_case_level-2.png" width=600>
+  <img src="diagrams/use_case_level-2.png" width=400>
   <br>
   <sub>Use Case 2 уровня</sub>
 </p>
@@ -59,7 +51,7 @@
 ## Третий уровень
 
 <p align="center">
-  <img src="diagrams/use_case_level-3(1).png" width=600>
+  <img src="diagrams/use_case_level-3(1).png" width=400>
   <br>
   <sub>Первый Use Case 3 уровня</sub>
 </p>
@@ -71,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="diagrams/use_case_level-3(2).png" width=600>
+  <img src="diagrams/use_case_level-3(2).png" width=400>
   <br>
   <sub>Второй Use Case 3 уровня</sub>
 </p>
@@ -83,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="diagrams/use_case_level-3(3).png" width=600>
+  <img src="diagrams/use_case_level-3(3).png" width=400>
   <br>
   <sub>Третий Use Case 3 уровня</sub>
 </p>
@@ -94,7 +86,6 @@
   <sub>Описание</sub>
 </p>
 
----
 
 ## Структура репозитория
 - `report.docx` — полный текст курсовой работы  
